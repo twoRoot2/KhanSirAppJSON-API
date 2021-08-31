@@ -13,6 +13,20 @@
             "studyMaterial": {
 
             }
+        },
+        {
+            "subject" : "Mathematics",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
+            "studyMaterial": {
+
+            }
+        },
+        {
+            "subject" : "Biology",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
+            "studyMaterial": {
+
+            }
         }
     ]
 }
