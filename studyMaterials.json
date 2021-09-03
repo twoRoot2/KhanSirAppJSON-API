@@ -1,53 +1,154 @@
 {
     "studyMaterials": [
         {
-            "subject" : "Physics",
-            "image" : "https://images-eu.ssl-images-amazon.com/images/I/517-MCNRL2L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
-            "studyMaterial" :[
-
+            "subject": "Physics",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/517-MCNRL2L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "studyMaterial": [
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/IMG_20210123_014626.jpg?alt=media&token=c84c9a5a-c4af-46bf-b15c-8407c0cdabb9",
+                    "Link": "https://drive.google.com/drive/folders/18PiEPaSnA_pd2WTB5VdoLZBsPeskGexC?usp=sharing",
+                    "Title": "History Class Notes [ GS ] by Khan Sir"
+                },
+                {
+                    "Author": "Khan Sir",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/file/d/1B5w9Cvr3V7AmGIdWuzwZIQ3oWpeDf57M/view?usp=sharing",
+                    "Title": "Books and Authors"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/drive/folders/1BDtxsQp1jcrnF4SxX4Als15HIkeso427?usp=sharing",
+                    "Title": "Biology by Khan Sir ( [GS] Class Notes )"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/drive/folders/1BLaZqz4VI10-plMJQ3Im4qejk641VpyN?usp=sharing",
+                    "Title": "Biology by Khan Sir ( [GS] Class Test )"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1Bzu5xfaVAcREy8LJKAjeA1H15Xk91S_D",
+                    "Title": "Physics Books / Class Notes by Khan Sir [G.S.]"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1C-H9aCJWQllaZ0bDoMsOzPKqd23ATDVo",
+                    "Title": "Physics Class Test by Khan Sir [G.S.]"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1C4hFbo7iSsJXeoYKOz6d_3t9hfl2M63s",
+                    "Title": "Chemistry Class Notes [G.S.] by Khan Sir"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1CBDilZOBd2CLMPEzSmNxX4noaIZ2zNm0",
+                    "Title": "Chemistry Class Test [G.S.] by Khan Sir"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1Ahj5reOZ0sK7OOOYwAhXg1o3a7pZapy1",
+                    "Title": "Polity Class Notes by Khan Sir [G.S.]"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1CEbkmhsFCTVv-PxJrZGn8FsU7yioPOha",
+                    "Title": "Polity Class Test [G.S.] by Khan Sir"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/file/d/1FwCA-JVPp2ryjGnhKQaswL9jjax-WYln/view?usp=drivesdk",
+                    "Title": "Chemistry दरोगा Tonic by खान sir पटना"
+                },
+                {
+                    "Author": "by : Kiran Publication",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1G4zqygt0pWf7BSKTzegDLAuM4LoP6say",
+                    "Title": "Kiran Science Numericals Physics and Chemistry 2300+ Objective Questions Railway Group D , NTPC ,ALP ,JE(Hindi Medium)"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1GYE3lYtYgy2pnbkoNsCgliRXhU2dEI9Y",
+                    "Title": "Polity Handwritten Notes by Khan Sir Patna"
+                },
+                {
+                    "Author": "by : Kiran Publication",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1H0hdTa7k-R5J1o37_RWWH95mVTslX9QJ",
+                    "Title": "Kiran NCERT History Class VI to XII One Liner Approach Saar Sangrah(Hindi Medium)\n【 Free】"
+                },
+                {
+                    "Author": "by : Kiran Publication",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1H7TL3lWIwefBcMqWjaTPT08qux5tBInj",
+                    "Title": "Kiran NCERT Indian Polity and Constitution Class VI to XII One Liner Approach Saar Sangrah(Hindi Medium) \n[◆◆ Free◆◆]"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://dei7dz7cq3zocm3yqnaerq-on.drv.tw/Khan_Sir_NCERT_Books/bhugol/1/",
+                    "Title": "भूगोल क्या है ?"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1C1qEAQ7MjV3ac50k3YX_oTMSto1yHxlD",
+                    "Title": "History Class Test [ GS ] by Khan Sir"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/images__16_-removebg-preview.png?alt=media&token=10e0122d-bef7-493b-929b-70b97fc3258a",
+                    "Link": "https://drive.google.com/folderview?id=1U8OpbhLLQLaQ85GPUYlI3GM8Z9QpsDy-",
+                    "Title": "Khan Sir Map Notes"
+                },
+                {
+                    "Author": "by Khan Sir",
+                    "DLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnRYHzndD2TXQxc8ued9d4JynzVmtf70eWw&usqp=CAU",
+                    "Link": "https://drive.google.com/file/d/1kBTtfcmVMBq4IT-NvYmqtqFpPOvsatHz/view?usp=drivesdk",
+                    "Title": "मूर्त्ति कला तथा मंदिर निर्माण की शैली"
+                }
             ]
         },
         {
-            "subject" : "Chemistry",
+            "subject": "Chemistry",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
-            "studyMaterial": [
-
-            ]
+            "studyMaterial": []
         },
         {
-            "subject" : "Mathematics",
+            "subject": "Mathematics",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
-            "studyMaterial": [
-
-            ]
+            "studyMaterial": []
         },
         {
-            "subject" : "Biology",
+            "subject": "Biology",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
-            "studyMaterial": [
-                
-            ]
+            "studyMaterial": []
         },
         {
-            "subject" : "History",
+            "subject": "History",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
-            "studyMaterial": [
-                
-            ]
+            "studyMaterial": []
         },
         {
-            "subject" : "Polity",
+            "subject": "Polity",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
-            "studyMaterial": [
-                
-            ]
+            "studyMaterial": []
         },
         {
-            "subject" : "Economics",
+            "subject": "Economics",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
-            "studyMaterial": [
-                
-            ]
+            "studyMaterial": []
         }
     ]
 }
