@@ -1,0 +1,28 @@
+{
+    "studyMaterials": [
+        {
+            "title": "Railway: General Science + GK 11000 Question by Khan Sir",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51BpuGwEmtL._SX366_BO1,204,203,200_.jpg",
+            "link": "https://amzn.to/39jGSaj",
+            "isSaleOpen" : true
+        },
+        {
+            "title": "Kiran NCERT Indian Polity and Constitution Class VI to XII One Liner Approach Saar Sangrah(Hindi Medium)",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/511-knHJYJL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "link": "https://amzn.to/3EzDTsH",
+            "isSaleOpen": false
+        },
+        {
+            "title": "Kiran NCERT History Class VI to XII One Liner Approach Saar Sangrah(Hindi Medium)",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/51lxfuAVo-L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "link": "https://amzn.to/3CpwQkz",
+            "isSaleOpen": false
+        },
+        {
+            "title": "Kiran NCERT Geography Class VI to XII One Liner Approach Saar Sangrah(Hindi Medium)",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51C1FW5MjBL._SX362_BO1,204,203,200_.jpg",
+            "link": "https://amzn.to/3hQgyct",
+            "isSaleOpen": false
+        }
+    ]
+}
