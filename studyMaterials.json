@@ -9,7 +9,7 @@
                     "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/Akbar.png?alt=media&token=7d96450c-4af0-4e7b-a928-1e03bf30ea7d",
                     "Link": "https://tworoot2.github.io/studyMaterials/History/History%20StudyMaterials/Akbar.pdf",
                     "Title": "Akbar",
-                    "fileSize" : "00"
+                    "fileSize": "00"
                 },
                 {
                     "Author": "Khan Sir GS",
@@ -248,7 +248,6 @@
                     "Title": "विश्व के प्रमुख झील 2",
                     "fileSize": "00"
                 }
-                
             ]
         },
         {
@@ -329,7 +328,8 @@
         {
             "subject": "Physics",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/517-MCNRL2L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
-            "studyMaterial": [{
+            "studyMaterial": [
+                {
                     "Author": "Khan Sir GS",
                     "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
                     "Link": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/Physics%20Khan%20Sir%20PDF%2FPhysics%20Books%20%26%20Notes%2FPhysics.pdf?alt=media&token=0a4888ba-6e96-4890-b15b-449e29c7e5e1",
@@ -349,7 +349,8 @@
                     "Link": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/Physics%20Khan%20Sir%20PDF%2FPhysics%20Books%20%26%20Notes%2FPart%202%20-%202300%2B_numerical_phy_%26che_By_Khan_sir_patna_pdf_by_numerical.pdf?alt=media&token=029dcc85-bc5e-4bb4-a3bf-309608f8fe16",
                     "Title": "Part 2 - 2300+ numerical phy & che By Khan sir patna pdf by numerical",
                     "fileSize": "00"
-                }]
+                }
+            ]
         },
         {
             "subject": "Chemistry",
@@ -412,9 +413,30 @@
                 },
                 {
                     "Author": "Khan Sir GS",
+                    "DLink": "https://upload.wikimedia.org/wikipedia/commons/1/14/Red_blood_cells.svg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Biology/Biology%20Books%20%26%20Notes/Blood-1.pdf",
+                    "Title": "Bloods",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://upload.wikimedia.org/wikipedia/commons/3/37/Thoracic_aorta.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Biology/Biology%20Books%20%26%20Notes/Circulatory-System-1.pdf",
+                    "Title": "Circulatory System",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXh5qJ26mZXO50cnM6oP7FYY5KX1fJEFzra-cNku83EiLDQIi7vixo8GJTJp3rVUDiqI&usqp=CAU",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Biology/Biology%20Books%20&%20Notes/Excretory-System-1.pdf",
+                    "Title": "Excretory-System-1",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
                     "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/respiratory.png?alt=media&token=c0c503ad-33fe-411b-b226-f8395d61fd20",
                     "Link": "https://tworoot2.github.io/studyMaterials/Biology/Biology%20Books%20&%20Notes/%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B8%E0%A4%A8%20%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%20OR%20respiratory%20system.pdf",
-                    "Title": "श्वसन तंत्र OR respiratory system.pdf",
+                    "Title": "श्वसन तंत्र OR respiratory system",
                     "fileSize": "00"
                 },
                 {
@@ -426,6 +448,5 @@
                 }
             ]
         }
-       
     ]
 }
