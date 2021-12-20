@@ -331,9 +331,9 @@
             "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
-                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
-                    "Link": "https://firebasestorage.googleapis.com/v0/b/mobile-murli.appspot.com/o/Physics%20Khan%20Sir%20PDF%2FPhysics%20Books%20%26%20Notes%2FPhysics.pdf?alt=media&token=0a4888ba-6e96-4890-b15b-449e29c7e5e1",
-                    "Title": "Physics Book",
+                    "DLink": "https://raw.githubusercontent.com/twoRoot2/studyMaterials/main/Physics/Physics%20images/physicsbook.png",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Physics/Physics%20books/Physics.pdf",
+                    "Title": "Physics Book written by Khan sir",
                     "fileSize": "00"
                 },
                 {
