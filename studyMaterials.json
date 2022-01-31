@@ -32,13 +32,7 @@
                     "Title": "Bhakti Aandolan",
                     "fileSize": "00"
                 },
-                {
-                    "Author": "by : Khan Sir GS",
-                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
-                    "Link": "https://tworoot2.github.io/studyMaterials/History/History%20StudyMaterials/Books%20and%20Authors.pdf",
-                    "Title": "Books and Authors",
-                    "fileSize": "00"
-                },
+                
                 {
                     "Author": "by : Khan Sir GS",
                     "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
@@ -176,6 +170,26 @@
                     "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
                     "Link": "https://tworoot2.github.io/studyMaterials/History/History%20Test/History%20Test%209.pdf",
                     "Title": "History Test 9",
+                    "fileSize": "00"
+                }
+            ]
+        },
+        {
+            "subject": "Books & Authors",
+            "image": "https://cdn.britannica.com/49/134949-050-242B08C7/Rabindranath-Tagore.jpg",
+            "studyMaterial": [
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Books%20%26%20Authors/Book%20%26%20Author%201.pdf",
+                    "Title": "Books and Authors 1",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Books%20%26%20Authors/Book%20%26%20Author%202.pdf",
+                    "Title": "Books and Authors 2",
                     "fileSize": "00"
                 }
             ]
