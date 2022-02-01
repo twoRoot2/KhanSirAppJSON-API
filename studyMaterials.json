@@ -32,7 +32,6 @@
                     "Title": "Bhakti Aandolan",
                     "fileSize": "00"
                 },
-                
                 {
                     "Author": "by : Khan Sir GS",
                     "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
@@ -103,7 +102,6 @@
                     "Title": "Vaidic Kaal Test",
                     "fileSize": "00"
                 },
-
                 {
                     "Author": "by Khan Sir",
                     "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
@@ -567,5 +565,126 @@
                 }
             ]
         }
+
+        ,
+        {
+            "subject": "Economics",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/510XQGZFwbL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "studyMaterial": [
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/0)%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%A3%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf",
+                    "Title": "अनुक्रमणिका",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/1)%20%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%9A%E0%A4%AF.pdf",
+                    "Title": "अर्थ व्यवस्था एक परिचय",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/1)%20%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0.pdf",
+                    "Title": "अर्थशास्त्र",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/2)%20%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF%20%E0%A4%86%E0%A4%AF.pdf",
+                    "Title": "राष्ट्रीय आय",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/3)%20%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95%20%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8.pdf",
+                    "Title": "आर्थिक नियोजन",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/4)%20%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%20%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0.pdf",
+                    "Title": "कृषि और संबंध क्षेत्र",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/5)%20%E0%A4%94%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95%20%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0.pdf",
+                    "Title": "औध्योगिक क्षेत्र",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/6)%20%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%20%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%8F%E0%A4%B5%E0%A4%AE%E0%A5%8D%20%E0%A4%85%E0%A4%B5%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%9A%E0%A4%A8%E0%A4%BE.pdf",
+                    "Title": "सेवा क्षेत्र एवम् अवसंरचना",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/7)%20%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BE%20%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A5%82%E0%A4%82%E0%A4%9C%E0%A5%80%20%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0.pdf",
+                    "Title": "मुद्रा बैंकिंग और पूंजी बाजार",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/8)%20%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%95%E0%A5%8B%E0%A4%B7%E0%A5%80%E0%A4%AF%20%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF.pdf",
+                    "Title": "राजकोषीय नीति",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/9)%20%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%B0.pdf",
+                    "Title": "अंतर्राष्ट्रीय व्यापार",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/10)%20%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95%20%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0.pdf",
+                    "Title": "सामाजिक क्षेत्र",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/11)%20%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF%20%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95.pdf",
+                    "Title": "अंतर्राष्ट्रीय आर्थिक",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/12)%20%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95%20%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE.pdf",
+                    "Title": "आर्थिक समीक्षा",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/13)%20%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF%20%E0%A4%AC%E0%A4%9C%E0%A4%9F.pdf",
+                    "Title": "केंद्रीय बजट",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/14)%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A5%8B%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0.pdf",
+                    "Title": "प्रश्नोउत्तर",
+                    "fileSize": "00"
+                }
+            ]
+        }
+
     ]
 }
