@@ -95,7 +95,6 @@
                     "Title": "Vijay Nagar & Bahmani Samrajaya",
                     "fileSize": "00"
                 },
-               
                 {
                     "Author": "by Khan Sir",
                     "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
@@ -547,6 +546,145 @@
             ]
         },
         {
+            "subject": "Chemistry Class Notes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
+            "studyMaterial": [
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/1.%20Chemistty%20Foundation1%20Pdf.pdf",
+                    "Title": "Chemistty Foundation 1",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/2.%20Chemistry%20Notes%202.pdf",
+                    "Title": "Chemistry Notes 2",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/3.%20Chemistry%20Notes%203%20Pdf.pdf",
+                    "Title": "Chemistry Notes 3 ",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/4.%20Chemistry%20Notes%204.pdf",
+                    "Title": "Chemistry Notes 4",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/5.%20Chemical%20Bonding.pdf",
+                    "Title": "Chemical Bonding",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/6.%20Chemical%20Bonding%20&%20Elements.pdf",
+                    "Title": "Chemical Bonding & Elements",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/7.%20Chemical%20Bond%209-10.pdf",
+                    "Title": "Chemical Bond 9-10",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/8.%20Acid%20,%20Base%20&%20Salt.pdf",
+                    "Title": "Acid , Base & Salt",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/9.%20Acid%20,%20Base%20&%20Salt%20Objective.pdf",
+                    "Title": "Acid , Base & Salt Objective",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/10.%20Radioactivity.pdf",
+                    "Title": "Radioactivity",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/11.%20Chemical%20Reaction.pdf",
+                    "Title": "Chemical Reaction",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/12.%20Water,%20ores%20&%20metallurgy.pdf",
+                    "Title": "Water, ores & metallurgy",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/13.%20Oxidation.pdf",
+                    "Title": "Oxidation",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/14.%20Organic%20Chemistry.pdf",
+                    "Title": "Organic Chemistry",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/15.%20Period%20Table.pdf",
+                    "Title": "Period Table",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/16.%20Industrial%20Chemistry.pdf",
+                    "Title": "Industrial Chemistry",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/17.%20Organic%20Compound%20Chemistry%20Test.pdf",
+                    "Title": "Organic Compound Chemistry Test",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/19.%20Chemistry%20Test%20Pdf.pdf",
+                    "Title": "Chemistry Test Pdf",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Chemistry/Chemistry%20New/20.%20Chemistry%20Test%20OMR%20Sheet.pdf",
+                    "Title": "Chemistry Test OMR Sheet",
+                    "fileSize": "00"
+                }
+            ]
+        },
+        {
             "subject": "Biology",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/51AYRDl88KL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
             "studyMaterial": [
@@ -621,9 +759,7 @@
                     "fileSize": "00"
                 }
             ]
-        }
-
-        ,
+        },
         {
             "subject": "Economics",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/510XQGZFwbL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
@@ -742,6 +878,5 @@
                 }
             ]
         }
-
     ]
 }
