@@ -3,6 +3,7 @@
         {
             "subject": "History",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/51lxfuAVo-L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
@@ -198,6 +199,7 @@
         {
             "subject": "History Tests",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/51lxfuAVo-L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "by Khan Sir",
@@ -309,6 +311,7 @@
         {
             "subject": "Books & Authors",
             "image": "https://cdn.britannica.com/49/134949-050-242B08C7/Rabindranath-Tagore.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "by : Khan Sir GS",
@@ -329,6 +332,7 @@
         {
             "subject": "Geography",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51C1FW5MjBL._SX362_BO1,204,203,200_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "by : Khan Sir GS",
@@ -405,6 +409,7 @@
         {
             "subject": "Polity Books & Notes",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/511-knHJYJL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "by : Khan Sir GS",
@@ -453,6 +458,7 @@
         {
             "subject": "Polity Handwritten Notes",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/511-knHJYJL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "by : Khan Sir GS",
@@ -501,6 +507,7 @@
         {
             "subject": "Physics Class Notes",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/517-MCNRL2L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
@@ -738,6 +745,7 @@
         {
             "subject": "Chemistry",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
@@ -758,6 +766,7 @@
         {
             "subject": "Chemistry Class Notes",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51+OwqYBqFL._SY344_BO1,204,203,200_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
@@ -897,6 +906,7 @@
         {
             "subject": "Biology",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/51AYRDl88KL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
@@ -973,6 +983,7 @@
         {
             "subject": "Economics",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/510XQGZFwbL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "external": "0",
             "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
