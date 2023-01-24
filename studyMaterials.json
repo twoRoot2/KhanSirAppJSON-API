@@ -1122,11 +1122,11 @@
             ]
         },
         {
-            "subject": "Khan Sir App",
-            "image": "https://play-lh.googleusercontent.com/9yOlKPx0XaQC5x9Q9Od8vtxT5hv3Qx6tS3rhLmoUirbb4-plm3Zsczb306QrIwnTwOo3=w240-h480-rw",
+            "subject": "Atlas app",
+            "image": "https://play-lh.googleusercontent.com/0Hdn0laN71Mb5NpVEsKttUBwnr2y7-YEU-tMwqljOn1W9-vvgG3VSfPnLouuSd0WtRFG=w240-h480-rw",
             "external": "1",
-            "externalLink": "https://play.google.com/store/apps/details?id=com.my.khansirapp",
-            "packageName": "com.tworoot2.class9thhistoryncert",
+            "externalLink": "https://play.google.com/store/apps/details?id=com.tworoot2.atlasbook",
+            "packageName": "com.tworoot2.atlasbook",
              "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
