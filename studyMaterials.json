@@ -204,7 +204,7 @@
             "external": "1",
             "externalLink": "https://play.google.com/store/apps/details?id=com.tworoot2.railwaygroupdpracset",
             "packageName": "com.tworoot2.class9thhistoryncert",
-             "studyMaterial": [
+            "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
                     "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
@@ -214,7 +214,6 @@
                 }
             ]
         },
-
         {
             "subject": "History Tests",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/51lxfuAVo-L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
@@ -348,6 +347,43 @@
                     "DLink": "https://firebasestorage.googleapis.com/v0/b/airforce-x-y-group.appspot.com/o/khan.png?alt=media&token=f255a32b-f558-4afe-9f3d-a91235ab3a40",
                     "Link": "https://tworoot2.github.io/studyMaterials/Books%20%26%20Authors/Book%20%26%20Author%202.pdf",
                     "Title": "Books and Authors 2",
+                    "fileSize": "00"
+                }
+            ]
+        },
+        {
+            "subject": "Atlas Class Notes",
+            "image": "https://cdn.britannica.com/49/134949-050-242B08C7/Rabindranath-Tagore.jpg",
+            "external": "0",
+            "externalLink": "",
+            "packageName": "",
+            "studyMaterial": [
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://tworoot2.github.io/Images/Images/atlas%20notes.png",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Atlas%20Class%20Notes/atlas%20class%20notes-1-23.pdf",
+                    "Title": "Atlas class notes part 1",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://tworoot2.github.io/Images/Images/atlas%20notes.png",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Atlas%20Class%20Notes/atlas%20class%20notes-24-39.pdf",
+                    "Title": "Atlas class notes part 2",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://tworoot2.github.io/Images/Images/atlas%20notes.png",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Atlas%20Class%20Notes/atlas%20class%20notes-40-66.pdf",
+                    "Title": "Atlas class notes part 3",
+                    "fileSize": "00"
+                },
+                {
+                    "Author": "by : Khan Sir GS",
+                    "DLink": "https://tworoot2.github.io/Images/Images/atlas%20notes.png",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Atlas%20Class%20Notes/atlas%20class%20notes-67-80.pdf",
+                    "Title": "Atlas class notes part 4",
                     "fileSize": "00"
                 }
             ]
@@ -1144,7 +1180,7 @@
             "external": "1",
             "externalLink": "https://play.google.com/store/apps/details?id=com.tworoot2.atlasbook",
             "packageName": "com.tworoot2.atlasbook",
-             "studyMaterial": [
+            "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
                     "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
@@ -1154,38 +1190,21 @@
                 }
             ]
         },
-
         {
-
             "subject": "Play General Knowledge Quizzes",
-
             "image": "https://tworoot2.github.io/Images/Images/ssc_quiz_ads.png",
-
             "external": "2",
-
             "externalLink": "https://6143.play.quizzop.com/",
-
             "packageName": "com.tworoot2.class9thhistoryncert",
-
-             "studyMaterial": [
-
+            "studyMaterial": [
                 {
-
                     "Author": "Khan Sir GS",
-
                     "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
-
                     "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/0)%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%A3%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf",
-
                     "Title": "अनुक्रमणिका",
-
                     "fileSize": "00"
-
                 }
-
             ]
-
         }
-         
     ]
 }
