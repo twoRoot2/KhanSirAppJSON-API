@@ -1,6 +1,38 @@
 {
     "studyMaterials": [
         {
+            "subject": "Play General Knowledge Quizzes",
+            "image": "https://tworoot2.github.io/Images/Images/ssc_quiz_ads.png",
+            "external": "2",
+            "externalLink": "https://6143.play.quizzop.com/",
+            "packageName": "com.tworoot2.class9thhistoryncert",
+            "studyMaterial": [
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/0)%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%A3%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf",
+                    "Title": "अनुक्रमणिका",
+                    "fileSize": "00"
+                }
+            ]
+        },
+        {
+            "subject": "Play Games - Fresh Your Mood",
+            "image": "https://tworoot2.github.io/Images/Images/be2b7784-2a1d-4f22-b302-0a1e302db4f9.png",
+            "external": "2",
+            "externalLink": "https://6142.play.gamezop.com/",
+            "packageName": "com.tworoot2.class9thhistoryncert",
+            "studyMaterial": [
+                {
+                    "Author": "Khan Sir GS",
+                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
+                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/0)%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%A3%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf",
+                    "Title": "अनुक्रमणिका",
+                    "fileSize": "00"
+                }
+            ]
+        },
+        {
             "subject": "History",
             "image": "https://images-eu.ssl-images-amazon.com/images/I/51lxfuAVo-L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
             "external": "0",
@@ -1180,22 +1212,6 @@
             "external": "1",
             "externalLink": "https://play.google.com/store/apps/details?id=com.tworoot2.atlasbook",
             "packageName": "com.tworoot2.atlasbook",
-            "studyMaterial": [
-                {
-                    "Author": "Khan Sir GS",
-                    "DLink": "https://1.bp.blogspot.com/-VkqClJswSlg/YLUAeGWn-sI/AAAAAAAADCY/4QQ1M-G87OYGYUqVxMs8_0XotnSbiWRjwCPcBGAsYHg/s400/IMG_20210527_141032_657.jpg",
-                    "Link": "https://tworoot2.github.io/studyMaterials/Economics/Eco%20books%20notes/0)%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%A3%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf",
-                    "Title": "अनुक्रमणिका",
-                    "fileSize": "00"
-                }
-            ]
-        },
-        {
-            "subject": "Play General Knowledge Quizzes",
-            "image": "https://tworoot2.github.io/Images/Images/ssc_quiz_ads.png",
-            "external": "2",
-            "externalLink": "https://6143.play.quizzop.com/",
-            "packageName": "com.tworoot2.class9thhistoryncert",
             "studyMaterial": [
                 {
                     "Author": "Khan Sir GS",
