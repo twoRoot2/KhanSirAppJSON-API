@@ -127,6 +127,22 @@
             "chNo": "0",
             "openLink": "",
             "status": "0"
+        },
+         {
+            "ILink": "https://tworoot2.github.io/Images/Khan%20Sir%20Notes%20Images/i16.png",
+            "Link": "https://tworoot2.github.io/studyMaterials/Khan%20Sir%20All%20Class%20Notes/astronomy.pdf",
+            "Title": "Astronomy",
+            "chNo": "0",
+            "openLink": "https://tworoot2.github.io/Images/Khan%20Sir%20Notes%20Images/i16.png",
+            "status": "1"
+        },
+         {
+            "ILink": "https://tworoot2.github.io/Images/Khan%20Sir%20Notes%20Images/i16.png",
+            "Link": "https://tworoot2.github.io/studyMaterials/Khan%20Sir%20All%20Class%20Notes/astronomy.pdf",
+            "Title": "Astronomy",
+            "chNo": "0",
+            "openLink": "https://tworoot2.github.io/Images/Khan%20Sir%20Notes%20Images/i16.png",
+            "status": "2"
         }
     ]
 }
